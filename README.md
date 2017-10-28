@@ -13,6 +13,9 @@ If you want to avoid IDE, in cmd go to root path of the project (where pom.xml i
  In this case, url is following: 
 [http://localhost:8080/](http://localhost:8080/)
 
+## Screenshot
+![alt text](https://github.com/PoukisaOufesa/WeatherForecast/tree/master/readme/weather_forecast.png)
+
 @PoukisaOufesa
 
 
